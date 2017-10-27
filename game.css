@@ -1,0 +1,29 @@
+.gameBoard {
+border: 0.25em solid black;
+    
+}
+
+.square {
+width: 5em;
+height: 5em;
+text-align: center;
+font-size: 1em;
+font-weight: bold;
+
+}
+
+.wrapper {
+    text-align: center;
+}
+
+.clearButton {
+    margin-top: 5em;
+    top: 50%;
+
+}
+
+#message {
+    margin-top: 5em;
+    font-weight: bold;
+    color:red;
+}
